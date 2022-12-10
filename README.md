@@ -60,3 +60,4 @@ The visualizations consist of two parts: first would be the autocorrelations and
 - The change in housing prices have a very strong correlation with the Covid Confirmed cases change in Polk, Florida, and the correlation decreases as the time lag decreases.
 
 ## References
+(2022). Housing Data. Zillow. https://www.zillow.com/research/data/
