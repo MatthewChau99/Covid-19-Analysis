@@ -30,5 +30,16 @@ This repository contains the following directories:
 
 ## Visualizations
 ### Covid Confirmed cases in Polk
+![Polk Covid](https://github.com/MatthewChau99/Covid-19-Analysis/blob/master/img/polk%20covid.png)
+
+### Autocorrelation for Polk Infection Rate
+![autocorr](https://github.com/MatthewChau99/Covid-19-Analysis/blob/master/img/auto_corr_polk.png)
+
+### Cross Correlation between Polk daily increase and US daily increase
+![cross corr Polk US](https://github.com/MatthewChau99/Covid-19-Analysis/blob/master/img/cross_corr_polk_us.png)
+
+### House average Prices in Polk
+![Polk House Prices](https://github.com/MatthewChau99/Covid-19-Analysis/blob/master/img/house%20avg%20prices.png)
+
 
 
