@@ -1,12 +1,5 @@
 # Covid-19-Analysis
 
-## Project Overview
-This project is split into four parts: <br>
-- Part 1: Focusing on the research question: *How did masking policies change the progression of confirmed COVID-19 cases from February 1, 2020 through October 1, 2021?*, I would investigate Polk, Florida, US on how the confirmed cases changed during Feb 1, 2020 to Oct 1, 2021.
-- Part 2: Extension Plan (TBD) 
-- Part 3: Presentation (TBD)
-- Part 4: Project Repository: The one you are looking at
-
 ## Project Goal
 The goal of this project is to investigate the impact of the pandemic on the housing prices in Polk, Florida. During the pandemic, the housing prices surged in the United States and presently it is still showing the sign of further uprise. This would suggested a lot of human centered implications, in terms of the economy, the society and political relationships. For houseowners, this could help them gain insights on their personal wealth and better manage their cost of livings. For investors, the relationship between the pandemic and house prices could be a significant factor when making investment decisions. Moreover, if there does exist a relationship between pandemic and house prices, it could say a lot of things about the economy as the house prices both reflect the ongoing economic/political policies, and signal potential future policies.
 
