@@ -18,7 +18,6 @@ This data contains the housing prices in the United States specific to the count
 
 ## Repo Info
 This repository contains the following directories:
-- `/data` contains all related data files
 - `/img` contains all output images, including the visualization created for part 1
 - `/src` contains all code and notebooks
 
