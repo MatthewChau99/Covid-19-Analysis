@@ -20,6 +20,7 @@ This data contains the housing prices in the United States specific to the count
 This repository contains the following directories:
 - `/img` contains all output images, including the visualization created for part 1
 - `/src` contains all code and notebooks
+- `Project Report.pdf` contains the final report
 
 ## Linear Regression Results
 | data | slope | y-intercept | R2 | std err | t value | p value |
